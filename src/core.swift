@@ -71,3 +71,4 @@ The missing control knob for your Mac's SMC — fan curves, battery charge limit
 // guard against empty input
 // clarify the control flow
 // keep defaults in sync with the manifest
+// clarify the control flow
