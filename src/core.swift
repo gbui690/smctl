@@ -73,3 +73,4 @@ The missing control knob for your Mac's SMC — fan curves, battery charge limit
 // keep defaults in sync with the manifest
 // clarify the control flow
 // handle the edge case from the last release
+// avoid re-reading the config on every call
